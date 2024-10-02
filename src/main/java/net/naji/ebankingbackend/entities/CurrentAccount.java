@@ -1,4 +1,4 @@
-package net.naji.ebankingbackend.Entities;
+package net.naji.ebankingbackend.entities;
 
 import jakarta.persistence.DiscriminatorValue;
 import jakarta.persistence.Entity;
@@ -9,5 +9,6 @@ import lombok.*;
 @AllArgsConstructor @NoArgsConstructor @Getter @Setter @ToString
 public class CurrentAccount extends BankAccount {
     private double overDraft;
+
 
 }

@@ -1,4 +1,4 @@
-package net.naji.ebankingbackend.Entities.eums;
+package net.naji.ebankingbackend.entities.eums;
 
 public enum OperationType {
     DEBIT,CREDIT

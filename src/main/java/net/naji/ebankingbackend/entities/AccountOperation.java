@@ -1,8 +1,8 @@
-package net.naji.ebankingbackend.Entities;
+package net.naji.ebankingbackend.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
-import net.naji.ebankingbackend.Entities.eums.OperationType;
+import net.naji.ebankingbackend.entities.eums.OperationType;
 
 import java.util.Date;
 
@@ -17,4 +17,5 @@ public class AccountOperation {
     private OperationType type;
     @ManyToOne
     private BankAccount bankAccount;
+    private String description;
 }
