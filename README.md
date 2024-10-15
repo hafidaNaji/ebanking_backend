@@ -1,5 +1,6 @@
-<h3>compte rendu ebanking web</h3>
-<img src="captures/capture1.PNG">
-<img src="captures/capture2.PNG">
-<img src="captures/capture3.PNG">
-<img src="captures/capture4.PNG">
+<h3>Compte rendu</h3>
+<img src="captures/Capture8.PNG">
+<img src="captures/Capture9.PNG">
+<img src="captures/Capture10.PNG">
+<img src="captures/Capture11.PNG">
+
